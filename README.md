@@ -3,8 +3,7 @@
 Интерактивная карта Gateway для The Isle: Evrima. Метки объектов, зоны, пресеты, палитра цветов, поиск игрока по координатам и встроенная проверка обновлений.
 
 ## Скачать
-
-Готовое приложение (.exe) — в разделе [GitHub Releases](https://github.com/MrGood727/TI-Evrima-Map/releases).
+[Скачать последний релиз](https://github.com/MrGood727/TI-Evrima-Map/releases/latest)
 
 ## Возможности
 
