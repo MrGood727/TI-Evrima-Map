@@ -7,15 +7,8 @@
 
 ## Скриншоты
 
-<img width="997" height="857" alt="1" src="https://github.com/user-attachments/assets/8543d739-a030-451e-b974-5a93dc22e2ed" />
+<img width="999" height="861" alt="изображение" src="https://github.com/user-attachments/assets/057387b3-abd0-403e-94ce-df5710ec77cc" />
 
-<img width="373" height="458" alt="2" src="https://github.com/user-attachments/assets/47b22aa0-d89b-4669-bb1c-291b4cc2d29f" />
-
-<img width="358" height="721" alt="3" src="https://github.com/user-attachments/assets/08683ad6-48b2-4cb9-8e7c-994e403006a1" />
-
-<img width="364" height="318" alt="4" src="https://github.com/user-attachments/assets/5695434e-4184-4cc6-956e-ccb4140fef23" />
-
-<img width="370" height="593" alt="5" src="https://github.com/user-attachments/assets/01ebb5f9-0362-4347-9cbe-9dcc52537148" />
 
 
 
