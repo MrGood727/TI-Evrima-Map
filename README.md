@@ -5,6 +5,29 @@
 Приложение объединяет интерактивную карту, координаты, пользовательские маркеры и области, маршруты, слои, пресеты и мини-карту с отслеживанием позиции игрока.
 
 [Скачать последний релиз](ссылка/releases/latest)
+# Screenshots | Скриншоты
+
+
+<p align="center">
+  <strong>Main Interface</strong><br>
+  <img src="https://github.com/user-attachments/assets/c4ffe5ef-61db-4836-9795-27c05cbad6fb" width="850">
+</p>
+
+<p align="center">
+  <strong>Minimap</strong> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <strong>Side Panel</strong> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <strong>Map Tools</strong><br>
+  <img src="https://github.com/user-attachments/assets/8c7bb54b-cbe1-44ac-8b93-345fc3a7ade6" height="300">
+  <img src="https://github.com/user-attachments/assets/692784ac-6a56-4d9f-9409-29acb5c790bb" height="300">
+  <img src="https://github.com/user-attachments/assets/75ffd50b-384f-4478-8613-3f86662b24ed" height="300">
+</p>
+
+<p align="center">
+  <strong>Markers</strong> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <strong>Settings</strong><br>
+  <img src="https://github.com/user-attachments/assets/90a866f9-829e-4967-8255-2d052e048460" height="450">
+  <img src="https://github.com/user-attachments/assets/19ca8f14-16ac-4ef2-a61b-91c18f1c7bad" height="450">
+</p>
 
 ## Возможности
 
